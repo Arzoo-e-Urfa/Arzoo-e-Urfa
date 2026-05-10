@@ -67,11 +67,11 @@ A highly scalable **Postman + Newman API testing framework** built for strict en
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arzoo-e-Urfa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Arzoo-e-Urfa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arzoo-e-Urfa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzoo-e-Urfa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Arzoo-e-Urfa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
